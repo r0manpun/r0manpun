@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman Pun
 =================================================================================================================================
 
-I am currently learning HTML, CSS and JavaScript. I have interest in Game Development, Big Data and Data Science. But don't know how to read statistics.
+I am currently learning HTML, CSS and JavaScript.
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [punroman11@gmail.com](mailto:punroman11@gmail.com)
 * 🧠  I'm learning HTML || CSS || JavaScript
-* ⚡  I'm secretly passive,... but please don't tell anyone.
+* ⚡  I'm Groot.
 
 ### Skills
 
