@@ -31,4 +31,5 @@ I am currently learning HTML, CSS and JavaScript. I have interest in Game Develo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r0manpun&theme=github-dark-blue&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=r0manpun&theme=github-dark-blue&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
+
+<!---<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=r0manpun&theme=github-dark-blue&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>-->
